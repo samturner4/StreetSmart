@@ -1,0 +1,1637 @@
+TOP 200 CITIES BY POPULATION - CRIME RATES AND PERCENTILES
+================================================================================
+
+Format: City, State | Population | Violent Crime Rate | Property Crime Rate | Total Crime Rate | Percentiles (Violent/Property/Total)
+
+1. New York, NEWYORK
+   Population: 8,379,043
+   Violent Crime Rate: 570.7 per 100k (47821 incidents)
+   Property Crime Rate: 1459.6 per 100k (122299 incidents)
+   Total Crime Rate: 2030.3 per 100k
+   Top Percentile of Most Dangerous Cities: 43% violent / 90% property / 84% total
+   (Higher % = more dangerous, lower % = safer)
+
+2. Los Angeles, CALIFORNIA
+   Population: 4,015,546
+   Violent Crime Rate: 732.2 per 100k (29400 incidents)
+   Property Crime Rate: 2383.3 per 100k (95704 incidents)
+   Total Crime Rate: 3115.5 per 100k
+   Top Percentile of Most Dangerous Cities: 25% violent / 62% property / 56% total
+   (Higher % = more dangerous, lower % = safer)
+
+3. Chicago, ILLINOIS
+   Population: 2,707,064
+   Violent Crime Rate: 943.2 per 100k (25532 incidents)
+   Property Crime Rate: 2982.6 per 100k (80742 incidents)
+   Total Crime Rate: 3925.8 per 100k
+   Top Percentile of Most Dangerous Cities: 14% violent / 49% property / 40% total
+   (Higher % = more dangerous, lower % = safer)
+
+4. Houston, TEXAS
+   Population: 2,355,606
+   Violent Crime Rate: 1072.2 per 100k (25257 incidents)
+   Property Crime Rate: 4319.5 per 100k (101750 incidents)
+   Total Crime Rate: 5391.7 per 100k
+   Top Percentile of Most Dangerous Cities: 10% violent / 15% property / 15% total
+   (Higher % = more dangerous, lower % = safer)
+
+5. Phoenix, ARIZONA
+   Population: 1,688,722
+   Violent Crime Rate: 698.9 per 100k (11803 incidents)
+   Property Crime Rate: 3314.6 per 100k (55974 incidents)
+   Total Crime Rate: 4013.5 per 100k
+   Top Percentile of Most Dangerous Cities: 30% violent / 38% property / 36% total
+   (Higher % = more dangerous, lower % = safer)
+
+6. San Antonio, TEXAS
+   Population: 1,559,166
+   Violent Crime Rate: 708.5 per 100k (11046 incidents)
+   Property Crime Rate: 4324.2 per 100k (67422 incidents)
+   Total Crime Rate: 5032.7 per 100k
+   Top Percentile of Most Dangerous Cities: 28% violent / 14% property / 19% total
+   (Higher % = more dangerous, lower % = safer)
+
+7. San Diego, CALIFORNIA
+   Population: 1,441,737
+   Violent Crime Rate: 361.7 per 100k (5215 incidents)
+   Property Crime Rate: 1882.5 per 100k (27141 incidents)
+   Total Crime Rate: 2244.2 per 100k
+   Top Percentile of Most Dangerous Cities: 65% violent / 78% property / 77% total
+   (Higher % = more dangerous, lower % = safer)
+
+8. Dallas, TEXAS
+   Population: 1,363,295
+   Violent Crime Rate: 862.9 per 100k (11764 incidents)
+   Property Crime Rate: 3321.3 per 100k (45279 incidents)
+   Total Crime Rate: 4184.2 per 100k
+   Top Percentile of Most Dangerous Cities: 17% violent / 37% property / 33% total
+   (Higher % = more dangerous, lower % = safer)
+
+9. San Jose, CALIFORNIA
+   Population: 1,040,008
+   Violent Crime Rate: 438.4 per 100k (4559 incidents)
+   Property Crime Rate: 2419.6 per 100k (25164 incidents)
+   Total Crime Rate: 2858.0 per 100k
+   Top Percentile of Most Dangerous Cities: 56% violent / 61% property / 62% total
+   (Higher % = more dangerous, lower % = safer)
+
+10. Austin, TEXAS
+   Population: 986,062
+   Violent Crime Rate: 400.9 per 100k (3953 incidents)
+   Property Crime Rate: 3710.5 per 100k (36588 incidents)
+   Total Crime Rate: 4111.4 per 100k
+   Top Percentile of Most Dangerous Cities: 61% violent / 27% property / 35% total
+   (Higher % = more dangerous, lower % = safer)
+
+11. Honolulu, HAWAII
+   Population: 974,902
+   Violent Crime Rate: 270.6 per 100k (2638 incidents)
+   Property Crime Rate: 3001.6 per 100k (29263 incidents)
+   Total Crime Rate: 3272.2 per 100k
+   Top Percentile of Most Dangerous Cities: 77% violent / 47% property / 53% total
+   (Higher % = more dangerous, lower % = safer)
+
+12. Charlotte-Mecklenburg, NORTH CAROLINA
+   Population: 944,260
+   Violent Crime Rate: 739.4 per 100k (6982 incidents)
+   Property Crime Rate: 3925.8 per 100k (37070 incidents)
+   Total Crime Rate: 4665.2 per 100k
+   Top Percentile of Most Dangerous Cities: 24% violent / 23% property / 23% total
+   (Higher % = more dangerous, lower % = safer)
+
+13. Fort Worth, TEXAS
+   Population: 915,237
+   Violent Crime Rate: 444.5 per 100k (4068 incidents)
+   Property Crime Rate: 2688.4 per 100k (24605 incidents)
+   Total Crime Rate: 3132.8 per 100k
+   Top Percentile of Most Dangerous Cities: 55% violent / 54% property / 54% total
+   (Higher % = more dangerous, lower % = safer)
+
+14. Jacksonville, FLORIDA
+   Population: 909,142
+   Violent Crime Rate: 647.4 per 100k (5886 incidents)
+   Property Crime Rate: 3309.5 per 100k (30088 incidents)
+   Total Crime Rate: 3956.9 per 100k
+   Top Percentile of Most Dangerous Cities: 35% violent / 39% property / 39% total
+   (Higher % = more dangerous, lower % = safer)
+
+15. Columbus, OHIO
+   Population: 906,120
+   Violent Crime Rate: 503.4 per 100k (4561 incidents)
+   Property Crime Rate: 3308.0 per 100k (29974 incidents)
+   Total Crime Rate: 3811.3 per 100k
+   Top Percentile of Most Dangerous Cities: 49% violent / 39% property / 42% total
+   (Higher % = more dangerous, lower % = safer)
+
+16. San Francisco, CALIFORNIA
+   Population: 886,007
+   Violent Crime Rate: 669.6 per 100k (5933 incidents)
+   Property Crime Rate: 5505.6 per 100k (48780 incidents)
+   Total Crime Rate: 6175.2 per 100k
+   Top Percentile of Most Dangerous Cities: 33% violent / 5% property / 8% total
+   (Higher % = more dangerous, lower % = safer)
+
+17. Seattle, WASHINGTON
+   Population: 763,706
+   Violent Crime Rate: 585.4 per 100k (4471 incidents)
+   Property Crime Rate: 4495.6 per 100k (34333 incidents)
+   Total Crime Rate: 5081.0 per 100k
+   Top Percentile of Most Dangerous Cities: 41% violent / 13% property / 18% total
+   (Higher % = more dangerous, lower % = safer)
+
+18. Denver, COLORADO
+   Population: 728,941
+   Violent Crime Rate: 748.9 per 100k (5459 incidents)
+   Property Crime Rate: 3743.5 per 100k (27288 incidents)
+   Total Crime Rate: 4492.4 per 100k
+   Top Percentile of Most Dangerous Cities: 23% violent / 27% property / 27% total
+   (Higher % = more dangerous, lower % = safer)
+
+19. Washington, DISTRICT OF COLUMBIA
+   Population: 705,749
+   Violent Crime Rate: 977.1 per 100k (6896 incidents)
+   Property Crime Rate: 4245.8 per 100k (29965 incidents)
+   Total Crime Rate: 5223.0 per 100k
+   Top Percentile of Most Dangerous Cities: 13% violent / 19% property / 17% total
+   (Higher % = more dangerous, lower % = safer)
+
+20. Boston, MASSACHUSETTS
+   Population: 694,673
+   Violent Crime Rate: 622.5 per 100k (4324 incidents)
+   Property Crime Rate: 2016.3 per 100k (14007 incidents)
+   Total Crime Rate: 2638.8 per 100k
+   Top Percentile of Most Dangerous Cities: 36% violent / 74% property / 66% total
+   (Higher % = more dangerous, lower % = safer)
+
+21. Metropolitan Nashville Police Department, TENNESSEE
+   Population: 687,361
+   Violent Crime Rate: 1073.1 per 100k (7376 incidents)
+   Property Crime Rate: 4041.1 per 100k (27777 incidents)
+   Total Crime Rate: 5114.2 per 100k
+   Top Percentile of Most Dangerous Cities: 9% violent / 21% property / 18% total
+   (Higher % = more dangerous, lower % = safer)
+
+22. El Paso, TEXAS
+   Population: 686,793
+   Violent Crime Rate: 352.7 per 100k (2422 incidents)
+   Property Crime Rate: 1511.1 per 100k (10378 incidents)
+   Total Crime Rate: 1863.7 per 100k
+   Top Percentile of Most Dangerous Cities: 68% violent / 89% property / 86% total
+   (Higher % = more dangerous, lower % = safer)
+
+23. Louisville Metro, KENTUCKY
+   Population: 675,501
+   Violent Crime Rate: 686.9 per 100k (4640 incidents)
+   Property Crime Rate: 3891.5 per 100k (26287 incidents)
+   Total Crime Rate: 4578.4 per 100k
+   Top Percentile of Most Dangerous Cities: 32% violent / 24% property / 24% total
+   (Higher % = more dangerous, lower % = safer)
+
+24. Detroit, MICHIGAN
+   Population: 663,502
+   Violent Crime Rate: 1965.3 per 100k (13040 incidents)
+   Property Crime Rate: 4302.9 per 100k (28550 incidents)
+   Total Crime Rate: 6268.3 per 100k
+   Top Percentile of Most Dangerous Cities: 1% violent / 17% property / 7% total
+   (Higher % = more dangerous, lower % = safer)
+
+25. Portland, OREGON
+   Population: 662,114
+   Violent Crime Rate: 544.6 per 100k (3606 incidents)
+   Property Crime Rate: 5203.3 per 100k (34452 incidents)
+   Total Crime Rate: 5748.0 per 100k
+   Top Percentile of Most Dangerous Cities: 45% violent / 9% property / 10% total
+   (Higher % = more dangerous, lower % = safer)
+
+26. Oklahoma City, OKLAHOMA
+   Population: 657,890
+   Violent Crime Rate: 722.2 per 100k (4751 incidents)
+   Property Crime Rate: 4091.6 per 100k (26918 incidents)
+   Total Crime Rate: 4813.7 per 100k
+   Top Percentile of Most Dangerous Cities: 26% violent / 20% property / 21% total
+   (Higher % = more dangerous, lower % = safer)
+
+27. Memphis, TENNESSEE
+   Population: 650,410
+   Violent Crime Rate: 1901.4 per 100k (12367 incidents)
+   Property Crime Rate: 6128.4 per 100k (39860 incidents)
+   Total Crime Rate: 8029.9 per 100k
+   Top Percentile of Most Dangerous Cities: 2% violent / 3% property / 2% total
+   (Higher % = more dangerous, lower % = safer)
+
+28. Baltimore, MARYLAND
+   Population: 597,239
+   Violent Crime Rate: 1858.7 per 100k (11101 incidents)
+   Property Crime Rate: 4311.2 per 100k (25748 incidents)
+   Total Crime Rate: 6169.9 per 100k
+   Top Percentile of Most Dangerous Cities: 3% violent / 16% property / 8% total
+   (Higher % = more dangerous, lower % = safer)
+
+29. Milwaukee, WISCONSIN
+   Population: 590,923
+   Violent Crime Rate: 1332.5 per 100k (7874 incidents)
+   Property Crime Rate: 2554.8 per 100k (15097 incidents)
+   Total Crime Rate: 3887.3 per 100k
+   Top Percentile of Most Dangerous Cities: 6% violent / 57% property / 41% total
+   (Higher % = more dangerous, lower % = safer)
+
+30. Tucson, ARIZONA
+   Population: 548,374
+   Violent Crime Rate: 688.4 per 100k (3775 incidents)
+   Property Crime Rate: 3272.0 per 100k (17943 incidents)
+   Total Crime Rate: 3960.4 per 100k
+   Top Percentile of Most Dangerous Cities: 31% violent / 40% property / 38% total
+   (Higher % = more dangerous, lower % = safer)
+
+31. Mesa, ARIZONA
+   Population: 518,160
+   Violent Crime Rate: 376.9 per 100k (1953 incidents)
+   Property Crime Rate: 1868.7 per 100k (9683 incidents)
+   Total Crime Rate: 2245.6 per 100k
+   Top Percentile of Most Dangerous Cities: 64% violent / 80% property / 76% total
+   (Higher % = more dangerous, lower % = safer)
+
+32. Sacramento, CALIFORNIA
+   Population: 513,934
+   Violent Crime Rate: 627.1 per 100k (3223 incidents)
+   Property Crime Rate: 3182.1 per 100k (16354 incidents)
+   Total Crime Rate: 3809.2 per 100k
+   Top Percentile of Most Dangerous Cities: 36% violent / 43% property / 43% total
+   (Higher % = more dangerous, lower % = safer)
+
+33. Kansas City, MISSOURI
+   Population: 495,964
+   Violent Crime Rate: 1431.4 per 100k (7099 incidents)
+   Property Crime Rate: 3855.9 per 100k (19124 incidents)
+   Total Crime Rate: 5287.3 per 100k
+   Top Percentile of Most Dangerous Cities: 5% violent / 25% property / 16% total
+   (Higher % = more dangerous, lower % = safer)
+
+34. Miami, FLORIDA
+   Population: 480,505
+   Violent Crime Rate: 593.1 per 100k (2850 incidents)
+   Property Crime Rate: 3667.8 per 100k (17624 incidents)
+   Total Crime Rate: 4260.9 per 100k
+   Top Percentile of Most Dangerous Cities: 40% violent / 28% property / 28% total
+   (Higher % = more dangerous, lower % = safer)
+
+35. Colorado Springs, COLORADO
+   Population: 479,648
+   Violent Crime Rate: 585.0 per 100k (2806 incidents)
+   Property Crime Rate: 3666.6 per 100k (17587 incidents)
+   Total Crime Rate: 4251.7 per 100k
+   Top Percentile of Most Dangerous Cities: 41% violent / 29% property / 30% total
+   (Higher % = more dangerous, lower % = safer)
+
+36. Raleigh, NORTH CAROLINA
+   Population: 477,828
+   Violent Crime Rate: 255.7 per 100k (1222 incidents)
+   Property Crime Rate: 1783.1 per 100k (8520 incidents)
+   Total Crime Rate: 2038.8 per 100k
+   Top Percentile of Most Dangerous Cities: 79% violent / 81% property / 83% total
+   (Higher % = more dangerous, lower % = safer)
+
+37. Omaha, NEBRASKA
+   Population: 470,481
+   Violent Crime Rate: 612.8 per 100k (2883 incidents)
+   Property Crime Rate: 3643.9 per 100k (17144 incidents)
+   Total Crime Rate: 4256.7 per 100k
+   Top Percentile of Most Dangerous Cities: 38% violent / 30% property / 29% total
+   (Higher % = more dangerous, lower % = safer)
+
+38. Long Beach, CALIFORNIA
+   Population: 467,974
+   Violent Crime Rate: 506.2 per 100k (2369 incidents)
+   Property Crime Rate: 2414.0 per 100k (11297 incidents)
+   Total Crime Rate: 2920.2 per 100k
+   Top Percentile of Most Dangerous Cities: 48% violent / 62% property / 59% total
+   (Higher % = more dangerous, lower % = safer)
+
+39. Virginia Beach, VIRGINIA
+   Population: 449,038
+   Violent Crime Rate: 129.4 per 100k (581 incidents)
+   Property Crime Rate: 1760.7 per 100k (7906 incidents)
+   Total Crime Rate: 1890.0 per 100k
+   Top Percentile of Most Dangerous Cities: 92% violent / 82% property / 85% total
+   (Higher % = more dangerous, lower % = safer)
+
+40. Oakland, CALIFORNIA
+   Population: 434,036
+   Violent Crime Rate: 1271.8 per 100k (5520 incidents)
+   Property Crime Rate: 6420.7 per 100k (27868 incidents)
+   Total Crime Rate: 7692.4 per 100k
+   Top Percentile of Most Dangerous Cities: 7% violent / 1% property / 3% total
+   (Higher % = more dangerous, lower % = safer)
+
+41. Minneapolis, MINNESOTA
+   Population: 431,016
+   Violent Crime Rate: 925.7 per 100k (3990 incidents)
+   Property Crime Rate: 4517.0 per 100k (19469 incidents)
+   Total Crime Rate: 5442.7 per 100k
+   Top Percentile of Most Dangerous Cities: 15% violent / 13% property / 14% total
+   (Higher % = more dangerous, lower % = safer)
+
+42. Arlington, TEXAS
+   Population: 402,304
+   Violent Crime Rate: 510.8 per 100k (2055 incidents)
+   Property Crime Rate: 2806.6 per 100k (11291 incidents)
+   Total Crime Rate: 3317.4 per 100k
+   Top Percentile of Most Dangerous Cities: 47% violent / 52% property / 51% total
+   (Higher % = more dangerous, lower % = safer)
+
+43. Tulsa, OKLAHOMA
+   Population: 401,700
+   Violent Crime Rate: 986.8 per 100k (3964 incidents)
+   Property Crime Rate: 5311.4 per 100k (21336 incidents)
+   Total Crime Rate: 6298.2 per 100k
+   Top Percentile of Most Dangerous Cities: 12% violent / 6% property / 6% total
+   (Higher % = more dangerous, lower % = safer)
+
+44. Tampa, FLORIDA
+   Population: 400,501
+   Violent Crime Rate: 405.0 per 100k (1622 incidents)
+   Property Crime Rate: 1628.7 per 100k (6523 incidents)
+   Total Crime Rate: 2033.7 per 100k
+   Top Percentile of Most Dangerous Cities: 60% violent / 86% property / 83% total
+   (Higher % = more dangerous, lower % = safer)
+
+45. New Orleans, LOUISIANA
+   Population: 394,498
+   Violent Crime Rate: 1144.7 per 100k (4516 incidents)
+   Property Crime Rate: 5292.5 per 100k (20879 incidents)
+   Total Crime Rate: 6437.3 per 100k
+   Top Percentile of Most Dangerous Cities: 8% violent / 7% property / 5% total
+   (Higher % = more dangerous, lower % = safer)
+
+46. Wichita, KANSAS
+   Population: 390,080
+   Violent Crime Rate: 1141.0 per 100k (4451 incidents)
+   Property Crime Rate: 5321.7 per 100k (20759 incidents)
+   Total Crime Rate: 6462.8 per 100k
+   Top Percentile of Most Dangerous Cities: 9% violent / 6% property / 5% total
+   (Higher % = more dangerous, lower % = safer)
+
+47. Bakersfield, CALIFORNIA
+   Population: 388,080
+   Violent Crime Rate: 455.1 per 100k (1766 incidents)
+   Property Crime Rate: 4141.9 per 100k (16074 incidents)
+   Total Crime Rate: 4597.0 per 100k
+   Top Percentile of Most Dangerous Cities: 54% violent / 20% property / 24% total
+   (Higher % = more dangerous, lower % = safer)
+
+48. Cleveland, OHIO
+   Population: 381,829
+   Violent Crime Rate: 1516.6 per 100k (5791 incidents)
+   Property Crime Rate: 4467.2 per 100k (17057 incidents)
+   Total Crime Rate: 5983.8 per 100k
+   Top Percentile of Most Dangerous Cities: 4% violent / 14% property / 10% total
+   (Higher % = more dangerous, lower % = safer)
+
+49. Aurora, COLORADO
+   Population: 380,600
+   Violent Crime Rate: 735.4 per 100k (2799 incidents)
+   Property Crime Rate: 2918.0 per 100k (11106 incidents)
+   Total Crime Rate: 3653.4 per 100k
+   Top Percentile of Most Dangerous Cities: 25% violent / 50% property / 45% total
+   (Higher % = more dangerous, lower % = safer)
+
+50. Anaheim, CALIFORNIA
+   Population: 353,915
+   Violent Crime Rate: 316.5 per 100k (1120 incidents)
+   Property Crime Rate: 2333.3 per 100k (8258 incidents)
+   Total Crime Rate: 2649.8 per 100k
+   Top Percentile of Most Dangerous Cities: 72% violent / 63% property / 65% total
+   (Higher % = more dangerous, lower % = safer)
+
+51. Santa Ana, CALIFORNIA
+   Population: 333,664
+   Violent Crime Rate: 435.5 per 100k (1453 incidents)
+   Property Crime Rate: 2040.4 per 100k (6808 incidents)
+   Total Crime Rate: 2475.8 per 100k
+   Top Percentile of Most Dangerous Cities: 56% violent / 72% property / 70% total
+   (Higher % = more dangerous, lower % = safer)
+
+52. Riverside, CALIFORNIA
+   Population: 333,260
+   Violent Crime Rate: 505.9 per 100k (1686 incidents)
+   Property Crime Rate: 2937.6 per 100k (9790 incidents)
+   Total Crime Rate: 3443.6 per 100k
+   Top Percentile of Most Dangerous Cities: 48% violent / 49% property / 48% total
+   (Higher % = more dangerous, lower % = safer)
+
+53. Corpus Christi, TEXAS
+   Population: 329,320
+   Violent Crime Rate: 794.4 per 100k (2616 incidents)
+   Property Crime Rate: 3445.6 per 100k (11347 incidents)
+   Total Crime Rate: 4239.9 per 100k
+   Top Percentile of Most Dangerous Cities: 21% violent / 36% property / 30% total
+   (Higher % = more dangerous, lower % = safer)
+
+54. Lexington, KENTUCKY
+   Population: 326,070
+   Violent Crime Rate: 296.6 per 100k (967 incidents)
+   Property Crime Rate: 2998.1 per 100k (9776 incidents)
+   Total Crime Rate: 3294.7 per 100k
+   Top Percentile of Most Dangerous Cities: 73% violent / 48% property / 52% total
+   (Higher % = more dangerous, lower % = safer)
+
+55. Stockton, CALIFORNIA
+   Population: 313,604
+   Violent Crime Rate: 1396.7 per 100k (4380 incidents)
+   Property Crime Rate: 3943.5 per 100k (12367 incidents)
+   Total Crime Rate: 5340.2 per 100k
+   Top Percentile of Most Dangerous Cities: 5% violent / 23% property / 16% total
+   (Higher % = more dangerous, lower % = safer)
+
+56. St. Paul, MINNESOTA
+   Population: 310,263
+   Violent Crime Rate: 564.7 per 100k (1752 incidents)
+   Property Crime Rate: 3612.4 per 100k (11208 incidents)
+   Total Crime Rate: 4177.1 per 100k
+   Top Percentile of Most Dangerous Cities: 44% violent / 31% property / 33% total
+   (Higher % = more dangerous, lower % = safer)
+
+57. Cincinnati, OHIO
+   Population: 303,335
+   Violent Crime Rate: 844.6 per 100k (2562 incidents)
+   Property Crime Rate: 4302.5 per 100k (13051 incidents)
+   Total Crime Rate: 5147.1 per 100k
+   Top Percentile of Most Dangerous Cities: 19% violent / 17% property / 17% total
+   (Higher % = more dangerous, lower % = safer)
+
+58. St. Louis, MISSOURI
+   Population: 300,521
+   Violent Crime Rate: 1927.3 per 100k (5792 incidents)
+   Property Crime Rate: 6183.3 per 100k (18582 incidents)
+   Total Crime Rate: 8110.6 per 100k
+   Top Percentile of Most Dangerous Cities: 1% violent / 2% property / 2% total
+   (Higher % = more dangerous, lower % = safer)
+
+59. Greensboro, NORTH CAROLINA
+   Population: 298,025
+   Violent Crime Rate: 818.7 per 100k (2440 incidents)
+   Property Crime Rate: 3689.0 per 100k (10994 incidents)
+   Total Crime Rate: 4507.7 per 100k
+   Top Percentile of Most Dangerous Cities: 20% violent / 28% property / 26% total
+   (Higher % = more dangerous, lower % = safer)
+
+60. Irvine, CALIFORNIA
+   Population: 292,673
+   Violent Crime Rate: 64.2 per 100k (188 incidents)
+   Property Crime Rate: 1306.2 per 100k (3823 incidents)
+   Total Crime Rate: 1370.5 per 100k
+   Top Percentile of Most Dangerous Cities: 100% violent / 94% property / 94% total
+   (Higher % = more dangerous, lower % = safer)
+
+61. Orlando, FLORIDA
+   Population: 292,120
+   Violent Crime Rate: 738.4 per 100k (2157 incidents)
+   Property Crime Rate: 4826.8 per 100k (14100 incidents)
+   Total Crime Rate: 5565.2 per 100k
+   Top Percentile of Most Dangerous Cities: 24% violent / 11% property / 13% total
+   (Higher % = more dangerous, lower % = safer)
+
+62. Plano, TEXAS
+   Population: 291,611
+   Violent Crime Rate: 147.8 per 100k (431 incidents)
+   Property Crime Rate: 1683.1 per 100k (4908 incidents)
+   Total Crime Rate: 1830.9 per 100k
+   Top Percentile of Most Dangerous Cities: 90% violent / 84% property / 88% total
+   (Higher % = more dangerous, lower % = safer)
+
+63. Lincoln, NEBRASKA
+   Population: 291,128
+   Violent Crime Rate: 383.0 per 100k (1115 incidents)
+   Property Crime Rate: 2750.7 per 100k (8008 incidents)
+   Total Crime Rate: 3133.7 per 100k
+   Top Percentile of Most Dangerous Cities: 63% violent / 54% property / 54% total
+   (Higher % = more dangerous, lower % = safer)
+
+64. Anchorage, ALASKA
+   Population: 287,731
+   Violent Crime Rate: 1244.6 per 100k (3581 incidents)
+   Property Crime Rate: 4261.3 per 100k (12261 incidents)
+   Total Crime Rate: 5505.8 per 100k
+   Top Percentile of Most Dangerous Cities: 7% violent / 18% property / 14% total
+   (Higher % = more dangerous, lower % = safer)
+
+65. Newark, NEWJERSEY
+   Population: 281,422
+   Violent Crime Rate: 619.0 per 100k (1742 incidents)
+   Property Crime Rate: 1641.0 per 100k (4618 incidents)
+   Total Crime Rate: 2260.0 per 100k
+   Top Percentile of Most Dangerous Cities: 37% violent / 85% property / 75% total
+   (Higher % = more dangerous, lower % = safer)
+
+66. Durham, NORTH CAROLINA
+   Population: 280,282
+   Violent Crime Rate: 730.0 per 100k (2046 incidents)
+   Property Crime Rate: 3807.6 per 100k (10672 incidents)
+   Total Crime Rate: 4537.6 per 100k
+   Top Percentile of Most Dangerous Cities: 26% violent / 25% property / 25% total
+   (Higher % = more dangerous, lower % = safer)
+
+67. Chula Vista, CALIFORNIA
+   Population: 275,230
+   Violent Crime Rate: 328.5 per 100k (904 incidents)
+   Property Crime Rate: 1386.5 per 100k (3816 incidents)
+   Total Crime Rate: 1714.9 per 100k
+   Top Percentile of Most Dangerous Cities: 71% violent / 92% property / 91% total
+   (Higher % = more dangerous, lower % = safer)
+
+68. Toledo, OHIO
+   Population: 273,505
+   Violent Crime Rate: 952.1 per 100k (2604 incidents)
+   Property Crime Rate: 3462.5 per 100k (9470 incidents)
+   Total Crime Rate: 4414.5 per 100k
+   Top Percentile of Most Dangerous Cities: 14% violent / 35% property / 27% total
+   (Higher % = more dangerous, lower % = safer)
+
+69. Fort Wayne, INDIANA
+   Population: 269,366
+   Violent Crime Rate: 361.6 per 100k (974 incidents)
+   Property Crime Rate: 2760.9 per 100k (7437 incidents)
+   Total Crime Rate: 3122.5 per 100k
+   Top Percentile of Most Dangerous Cities: 66% violent / 53% property / 55% total
+   (Higher % = more dangerous, lower % = safer)
+
+70. St. Petersburg, FLORIDA
+   Population: 267,696
+   Violent Crime Rate: 595.5 per 100k (1594 incidents)
+   Property Crime Rate: 3209.6 per 100k (8592 incidents)
+   Total Crime Rate: 3805.1 per 100k
+   Top Percentile of Most Dangerous Cities: 39% violent / 42% property / 43% total
+   (Higher % = more dangerous, lower % = safer)
+
+71. Jersey City, NEWJERSEY
+   Population: 266,508
+   Violent Crime Rate: 522.7 per 100k (1393 incidents)
+   Property Crime Rate: 1903.9 per 100k (5074 incidents)
+   Total Crime Rate: 2426.6 per 100k
+   Top Percentile of Most Dangerous Cities: 46% violent / 77% property / 71% total
+   (Higher % = more dangerous, lower % = safer)
+
+72. Laredo, TEXAS
+   Population: 264,916
+   Violent Crime Rate: 315.6 per 100k (836 incidents)
+   Property Crime Rate: 1771.1 per 100k (4692 incidents)
+   Total Crime Rate: 2086.7 per 100k
+   Top Percentile of Most Dangerous Cities: 72% violent / 81% property / 82% total
+   (Higher % = more dangerous, lower % = safer)
+
+73. Madison, WISCONSIN
+   Population: 261,270
+   Violent Crime Rate: 359.8 per 100k (940 incidents)
+   Property Crime Rate: 2474.1 per 100k (6464 incidents)
+   Total Crime Rate: 2833.9 per 100k
+   Top Percentile of Most Dangerous Cities: 66% violent / 60% property / 62% total
+   (Higher % = more dangerous, lower % = safer)
+
+74. Scottsdale, ARIZONA
+   Population: 260,464
+   Violent Crime Rate: 159.3 per 100k (415 incidents)
+   Property Crime Rate: 1957.7 per 100k (5099 incidents)
+   Total Crime Rate: 2117.0 per 100k
+   Top Percentile of Most Dangerous Cities: 89% violent / 75% property / 80% total
+   (Higher % = more dangerous, lower % = safer)
+
+75. Chandler, ARIZONA
+   Population: 259,881
+   Violent Crime Rate: 228.2 per 100k (593 incidents)
+   Property Crime Rate: 2070.9 per 100k (5382 incidents)
+   Total Crime Rate: 2299.1 per 100k
+   Top Percentile of Most Dangerous Cities: 81% violent / 71% property / 74% total
+   (Higher % = more dangerous, lower % = safer)
+
+76. Lubbock, TEXAS
+   Population: 259,208
+   Violent Crime Rate: 1008.1 per 100k (2613 incidents)
+   Property Crime Rate: 4606.3 per 100k (11940 incidents)
+   Total Crime Rate: 5614.4 per 100k
+   Top Percentile of Most Dangerous Cities: 11% violent / 12% property / 12% total
+   (Higher % = more dangerous, lower % = safer)
+
+77. Buffalo, NEWYORK
+   Population: 255,686
+   Violent Crime Rate: 990.7 per 100k (2533 incidents)
+   Property Crime Rate: 3245.4 per 100k (8298 incidents)
+   Total Crime Rate: 4236.1 per 100k
+   Top Percentile of Most Dangerous Cities: 11% violent / 41% property / 31% total
+   (Higher % = more dangerous, lower % = safer)
+
+78. Glendale, ARIZONA
+   Population: 253,951
+   Violent Crime Rate: 339.8 per 100k (863 incidents)
+   Property Crime Rate: 3182.9 per 100k (8083 incidents)
+   Total Crime Rate: 3522.7 per 100k
+   Top Percentile of Most Dangerous Cities: 70% violent / 43% property / 47% total
+   (Higher % = more dangerous, lower % = safer)
+
+79. Gilbert, ARIZONA
+   Population: 253,619
+   Violent Crime Rate: 96.6 per 100k (245 incidents)
+   Property Crime Rate: 1202.6 per 100k (3050 incidents)
+   Total Crime Rate: 1299.2 per 100k
+   Top Percentile of Most Dangerous Cities: 97% violent / 94% property / 95% total
+   (Higher % = more dangerous, lower % = safer)
+
+80. Mobile, ALABAMA
+   Population: 245,475
+   Violent Crime Rate: 657.1 per 100k (1613 incidents)
+   Property Crime Rate: 4926.8 per 100k (12094 incidents)
+   Total Crime Rate: 5583.9 per 100k
+   Top Percentile of Most Dangerous Cities: 34% violent / 10% property / 12% total
+   (Higher % = more dangerous, lower % = safer)
+
+81. Irving, TEXAS
+   Population: 245,423
+   Violent Crime Rate: 251.4 per 100k (617 incidents)
+   Property Crime Rate: 2437.4 per 100k (5982 incidents)
+   Total Crime Rate: 2688.8 per 100k
+   Top Percentile of Most Dangerous Cities: 79% violent / 61% property / 65% total
+   (Higher % = more dangerous, lower % = safer)
+
+82. Garland, TEXAS
+   Population: 244,277
+   Violent Crime Rate: 302.1 per 100k (738 incidents)
+   Property Crime Rate: 2583.5 per 100k (6311 incidents)
+   Total Crime Rate: 2885.7 per 100k
+   Top Percentile of Most Dangerous Cities: 73% violent / 57% property / 61% total
+   (Higher % = more dangerous, lower % = safer)
+
+83. Chesapeake, VIRGINIA
+   Population: 243,726
+   Violent Crime Rate: 456.3 per 100k (1112 incidents)
+   Property Crime Rate: 2273.5 per 100k (5541 incidents)
+   Total Crime Rate: 2729.7 per 100k
+   Top Percentile of Most Dangerous Cities: 53% violent / 64% property / 64% total
+   (Higher % = more dangerous, lower % = safer)
+
+84. Norfolk, VIRGINIA
+   Population: 242,813
+   Violent Crime Rate: 545.7 per 100k (1325 incidents)
+   Property Crime Rate: 3461.5 per 100k (8405 incidents)
+   Total Crime Rate: 4007.2 per 100k
+   Top Percentile of Most Dangerous Cities: 45% violent / 35% property / 37% total
+   (Higher % = more dangerous, lower % = safer)
+
+85. Fremont, CALIFORNIA
+   Population: 240,887
+   Violent Crime Rate: 166.1 per 100k (400 incidents)
+   Property Crime Rate: 1877.6 per 100k (4523 incidents)
+   Total Crime Rate: 2043.7 per 100k
+   Top Percentile of Most Dangerous Cities: 88% violent / 79% property / 82% total
+   (Higher % = more dangerous, lower % = safer)
+
+86. Hialeah, FLORIDA
+   Population: 240,688
+   Violent Crime Rate: 209.0 per 100k (503 incidents)
+   Property Crime Rate: 2032.9 per 100k (4893 incidents)
+   Total Crime Rate: 2241.9 per 100k
+   Top Percentile of Most Dangerous Cities: 83% violent / 73% property / 77% total
+   (Higher % = more dangerous, lower % = safer)
+
+87. Boise, IDAHO
+   Population: 231,314
+   Violent Crime Rate: 280.6 per 100k (649 incidents)
+   Property Crime Rate: 1579.2 per 100k (3653 incidents)
+   Total Crime Rate: 1859.8 per 100k
+   Top Percentile of Most Dangerous Cities: 75% violent / 87% property / 86% total
+   (Higher % = more dangerous, lower % = safer)
+
+88. Richmond, VIRGINIA
+   Population: 230,721
+   Violent Crime Rate: 462.9 per 100k (1068 incidents)
+   Property Crime Rate: 3499.5 per 100k (8074 incidents)
+   Total Crime Rate: 3962.4 per 100k
+   Top Percentile of Most Dangerous Cities: 53% violent / 33% property / 37% total
+   (Higher % = more dangerous, lower % = safer)
+
+89. Baton Rouge, LOUISIANA
+   Population: 220,648
+   Violent Crime Rate: 936.3 per 100k (2066 incidents)
+   Property Crime Rate: 5290.3 per 100k (11673 incidents)
+   Total Crime Rate: 6226.7 per 100k
+   Top Percentile of Most Dangerous Cities: 14% violent / 7% property / 7% total
+   (Higher % = more dangerous, lower % = safer)
+
+90. Spokane, WASHINGTON
+   Population: 220,432
+   Violent Crime Rate: 689.6 per 100k (1520 incidents)
+   Property Crime Rate: 5919.3 per 100k (13048 incidents)
+   Total Crime Rate: 6608.8 per 100k
+   Top Percentile of Most Dangerous Cities: 31% violent / 4% property / 4% total
+   (Higher % = more dangerous, lower % = safer)
+
+91. Tacoma, WASHINGTON
+   Population: 218,650
+   Violent Crime Rate: 845.2 per 100k (1848 incidents)
+   Property Crime Rate: 5220.7 per 100k (11415 incidents)
+   Total Crime Rate: 6065.9 per 100k
+   Top Percentile of Most Dangerous Cities: 18% violent / 8% property / 9% total
+   (Higher % = more dangerous, lower % = safer)
+
+92. Santa Clarita, CALIFORNIA
+   Population: 218,103
+   Violent Crime Rate: 127.0 per 100k (277 incidents)
+   Property Crime Rate: 944.0 per 100k (2059 incidents)
+   Total Crime Rate: 1071.1 per 100k
+   Top Percentile of Most Dangerous Cities: 93% violent / 98% property / 98% total
+   (Higher % = more dangerous, lower % = safer)
+
+93. San Bernardino, CALIFORNIA
+   Population: 216,715
+   Violent Crime Rate: 1318.8 per 100k (2858 incidents)
+   Property Crime Rate: 4190.3 per 100k (9081 incidents)
+   Total Crime Rate: 5509.1 per 100k
+   Top Percentile of Most Dangerous Cities: 6% violent / 19% property / 14% total
+   (Higher % = more dangerous, lower % = safer)
+
+94. Modesto, CALIFORNIA
+   Population: 216,542
+   Violent Crime Rate: 811.9 per 100k (1758 incidents)
+   Property Crime Rate: 3317.1 per 100k (7183 incidents)
+   Total Crime Rate: 4129.0 per 100k
+   Top Percentile of Most Dangerous Cities: 20% violent / 38% property / 34% total
+   (Higher % = more dangerous, lower % = safer)
+
+95. Fontana, CALIFORNIA
+   Population: 215,883
+   Violent Crime Rate: 342.3 per 100k (739 incidents)
+   Property Crime Rate: 1433.2 per 100k (3094 incidents)
+   Total Crime Rate: 1775.5 per 100k
+   Top Percentile of Most Dangerous Cities: 69% violent / 91% property / 89% total
+   (Higher % = more dangerous, lower % = safer)
+
+96. Oxnard, CALIFORNIA
+   Population: 211,349
+   Violent Crime Rate: 342.6 per 100k (724 incidents)
+   Property Crime Rate: 2007.1 per 100k (4242 incidents)
+   Total Crime Rate: 2349.7 per 100k
+   Top Percentile of Most Dangerous Cities: 69% violent / 74% property / 73% total
+   (Higher % = more dangerous, lower % = safer)
+
+97. Moreno Valley, CALIFORNIA
+   Population: 210,979
+   Violent Crime Rate: 401.5 per 100k (847 incidents)
+   Property Crime Rate: 2623.0 per 100k (5534 incidents)
+   Total Crime Rate: 3024.5 per 100k
+   Top Percentile of Most Dangerous Cities: 61% violent / 56% property / 56% total
+   (Higher % = more dangerous, lower % = safer)
+
+98. Birmingham, ALABAMA
+   Population: 210,564
+   Violent Crime Rate: 1911.5 per 100k (4025 incidents)
+   Property Crime Rate: 6314.0 per 100k (13295 incidents)
+   Total Crime Rate: 8225.5 per 100k
+   Top Percentile of Most Dangerous Cities: 2% violent / 2% property / 1% total
+   (Higher % = more dangerous, lower % = safer)
+
+99. Fayetteville, NORTH CAROLINA
+   Population: 209,614
+   Violent Crime Rate: 875.4 per 100k (1835 incidents)
+   Property Crime Rate: 3526.0 per 100k (7391 incidents)
+   Total Crime Rate: 4401.4 per 100k
+   Top Percentile of Most Dangerous Cities: 17% violent / 32% property / 28% total
+   (Higher % = more dangerous, lower % = safer)
+
+100. Rochester, NEWYORK
+   Population: 205,769
+   Violent Crime Rate: 748.4 per 100k (1540 incidents)
+   Property Crime Rate: 3470.9 per 100k (7142 incidents)
+   Total Crime Rate: 4219.3 per 100k
+   Top Percentile of Most Dangerous Cities: 23% violent / 34% property / 32% total
+   (Higher % = more dangerous, lower % = safer)
+
+101. Glendale, CALIFORNIA
+   Population: 202,601
+   Violent Crime Rate: 114.0 per 100k (231 incidents)
+   Property Crime Rate: 1631.3 per 100k (3305 incidents)
+   Total Crime Rate: 1745.3 per 100k
+   Top Percentile of Most Dangerous Cities: 96% violent / 85% property / 89% total
+   (Higher % = more dangerous, lower % = safer)
+
+102. Salt Lake City, UTAH
+   Population: 202,426
+   Violent Crime Rate: 712.4 per 100k (1442 incidents)
+   Property Crime Rate: 5657.4 per 100k (11452 incidents)
+   Total Crime Rate: 6369.7 per 100k
+   Top Percentile of Most Dangerous Cities: 28% violent / 4% property / 6% total
+   (Higher % = more dangerous, lower % = safer)
+
+103. Huntington Beach, CALIFORNIA
+   Population: 201,843
+   Violent Crime Rate: 191.2 per 100k (386 incidents)
+   Property Crime Rate: 2053.1 per 100k (4144 incidents)
+   Total Crime Rate: 2244.3 per 100k
+   Top Percentile of Most Dangerous Cities: 86% violent / 71% property / 76% total
+   (Higher % = more dangerous, lower % = safer)
+
+104. Grand Rapids, MICHIGAN
+   Population: 201,799
+   Violent Crime Rate: 637.3 per 100k (1286 incidents)
+   Property Crime Rate: 1907.8 per 100k (3850 incidents)
+   Total Crime Rate: 2545.1 per 100k
+   Top Percentile of Most Dangerous Cities: 35% violent / 77% property / 68% total
+   (Higher % = more dangerous, lower % = safer)
+
+105. Amarillo, TEXAS
+   Population: 201,036
+   Violent Crime Rate: 719.8 per 100k (1447 incidents)
+   Property Crime Rate: 3897.3 per 100k (7835 incidents)
+   Total Crime Rate: 4617.1 per 100k
+   Top Percentile of Most Dangerous Cities: 27% violent / 24% property / 23% total
+   (Higher % = more dangerous, lower % = safer)
+
+106. McKinney, TEXAS
+   Population: 200,615
+   Violent Crime Rate: 143.1 per 100k (287 incidents)
+   Property Crime Rate: 993.4 per 100k (1993 incidents)
+   Total Crime Rate: 1136.5 per 100k
+   Top Percentile of Most Dangerous Cities: 91% violent / 97% property / 98% total
+   (Higher % = more dangerous, lower % = safer)
+
+107. Yonkers, NEWYORK
+   Population: 200,075
+   Violent Crime Rate: 353.9 per 100k (708 incidents)
+   Property Crime Rate: 912.7 per 100k (1826 incidents)
+   Total Crime Rate: 1266.5 per 100k
+   Top Percentile of Most Dangerous Cities: 67% violent / 99% property / 96% total
+   (Higher % = more dangerous, lower % = safer)
+
+108. Aurora, ILLINOIS
+   Population: 199,784
+   Violent Crime Rate: 258.3 per 100k (516 incidents)
+   Property Crime Rate: 1008.1 per 100k (2014 incidents)
+   Total Crime Rate: 1266.4 per 100k
+   Top Percentile of Most Dangerous Cities: 78% violent / 97% property / 96% total
+   (Higher % = more dangerous, lower % = safer)
+
+109. Frisco, TEXAS
+   Population: 199,445
+   Violent Crime Rate: 80.2 per 100k (160 incidents)
+   Property Crime Rate: 1198.3 per 100k (2390 incidents)
+   Total Crime Rate: 1278.5 per 100k
+   Top Percentile of Most Dangerous Cities: 98% violent / 95% property / 95% total
+   (Higher % = more dangerous, lower % = safer)
+
+110. Port St. Lucie, FLORIDA
+   Population: 199,433
+   Violent Crime Rate: 146.9 per 100k (293 incidents)
+   Property Crime Rate: 850.4 per 100k (1696 incidents)
+   Total Crime Rate: 997.3 per 100k
+   Top Percentile of Most Dangerous Cities: 90% violent / 100% property / 99% total
+   (Higher % = more dangerous, lower % = safer)
+
+111. Montgomery, ALABAMA
+   Population: 198,662
+   Violent Crime Rate: 612.1 per 100k (1216 incidents)
+   Property Crime Rate: 4268.6 per 100k (8480 incidents)
+   Total Crime Rate: 4880.7 per 100k
+   Top Percentile of Most Dangerous Cities: 38% violent / 18% property / 20% total
+   (Higher % = more dangerous, lower % = safer)
+
+112. Little Rock, ARKANSAS
+   Population: 198,382
+   Violent Crime Rate: 1516.8 per 100k (3009 incidents)
+   Property Crime Rate: 6122.0 per 100k (12145 incidents)
+   Total Crime Rate: 7638.8 per 100k
+   Top Percentile of Most Dangerous Cities: 4% violent / 3% property / 3% total
+   (Higher % = more dangerous, lower % = safer)
+
+113. Akron, OHIO
+   Population: 197,882
+   Violent Crime Rate: 900.5 per 100k (1782 incidents)
+   Property Crime Rate: 3319.1 per 100k (6568 incidents)
+   Total Crime Rate: 4219.7 per 100k
+   Top Percentile of Most Dangerous Cities: 16% violent / 37% property / 32% total
+   (Higher % = more dangerous, lower % = safer)
+
+114. Grand Prairie, TEXAS
+   Population: 196,971
+   Violent Crime Rate: 217.3 per 100k (428 incidents)
+   Property Crime Rate: 2101.8 per 100k (4140 incidents)
+   Total Crime Rate: 2319.1 per 100k
+   Top Percentile of Most Dangerous Cities: 81% violent / 70% property / 73% total
+   (Higher % = more dangerous, lower % = safer)
+
+115. Tempe, ARIZONA
+   Population: 196,499
+   Violent Crime Rate: 452.4 per 100k (889 incidents)
+   Property Crime Rate: 3776.1 per 100k (7420 incidents)
+   Total Crime Rate: 4228.5 per 100k
+   Top Percentile of Most Dangerous Cities: 54% violent / 26% property / 31% total
+   (Higher % = more dangerous, lower % = safer)
+
+116. Tallahassee, FLORIDA
+   Population: 195,104
+   Violent Crime Rate: 696.6 per 100k (1359 incidents)
+   Property Crime Rate: 3978.9 per 100k (7763 incidents)
+   Total Crime Rate: 4675.5 per 100k
+   Top Percentile of Most Dangerous Cities: 30% violent / 22% property / 22% total
+   (Higher % = more dangerous, lower % = safer)
+
+117. Cape Coral, FLORIDA
+   Population: 194,183
+   Violent Crime Rate: 116.4 per 100k (226 incidents)
+   Property Crime Rate: 1120.6 per 100k (2176 incidents)
+   Total Crime Rate: 1237.0 per 100k
+   Top Percentile of Most Dangerous Cities: 95% violent / 96% property / 97% total
+   (Higher % = more dangerous, lower % = safer)
+
+118. Knoxville, TENNESSEE
+   Population: 188,666
+   Violent Crime Rate: 667.3 per 100k (1259 incidents)
+   Property Crime Rate: 4350.0 per 100k (8207 incidents)
+   Total Crime Rate: 5017.3 per 100k
+   Top Percentile of Most Dangerous Cities: 34% violent / 14% property / 19% total
+   (Higher % = more dangerous, lower % = safer)
+
+119. Shreveport, LOUISIANA
+   Population: 187,556
+   Violent Crime Rate: 779.5 per 100k (1462 incidents)
+   Property Crime Rate: 4899.3 per 100k (9189 incidents)
+   Total Crime Rate: 5678.8 per 100k
+   Top Percentile of Most Dangerous Cities: 22% violent / 11% property / 11% total
+   (Higher % = more dangerous, lower % = safer)
+
+120. Worcester, MASSACHUSETTS
+   Population: 186,188
+   Violent Crime Rate: 682.6 per 100k (1271 incidents)
+   Property Crime Rate: 2137.1 per 100k (3979 incidents)
+   Total Crime Rate: 2819.7 per 100k
+   Top Percentile of Most Dangerous Cities: 33% violent / 69% property / 63% total
+   (Higher % = more dangerous, lower % = safer)
+
+121. Sioux Falls, SOUTH DAKOTA
+   Population: 185,628
+   Violent Crime Rate: 483.2 per 100k (897 incidents)
+   Property Crime Rate: 3045.3 per 100k (5653 incidents)
+   Total Crime Rate: 3528.6 per 100k
+   Top Percentile of Most Dangerous Cities: 50% violent / 45% property / 47% total
+   (Higher % = more dangerous, lower % = safer)
+
+122. Vancouver, WASHINGTON
+   Population: 185,034
+   Violent Crime Rate: 480.5 per 100k (889 incidents)
+   Property Crime Rate: 3241.6 per 100k (5998 incidents)
+   Total Crime Rate: 3722.0 per 100k
+   Top Percentile of Most Dangerous Cities: 52% violent / 41% property / 45% total
+   (Higher % = more dangerous, lower % = safer)
+
+123. Fort Lauderdale, FLORIDA
+   Population: 184,765
+   Violent Crime Rate: 594.3 per 100k (1098 incidents)
+   Property Crime Rate: 4915.4 per 100k (9082 incidents)
+   Total Crime Rate: 5509.7 per 100k
+   Top Percentile of Most Dangerous Cities: 40% violent / 10% property / 13% total
+   (Higher % = more dangerous, lower % = safer)
+
+124. Brownsville, TEXAS
+   Population: 184,418
+   Violent Crime Rate: 420.8 per 100k (776 incidents)
+   Property Crime Rate: 2468.8 per 100k (4553 incidents)
+   Total Crime Rate: 2889.6 per 100k
+   Top Percentile of Most Dangerous Cities: 57% violent / 60% property / 60% total
+   (Higher % = more dangerous, lower % = safer)
+
+125. Ontario, CALIFORNIA
+   Population: 183,322
+   Violent Crime Rate: 359.5 per 100k (659 incidents)
+   Property Crime Rate: 2340.1 per 100k (4290 incidents)
+   Total Crime Rate: 2699.6 per 100k
+   Top Percentile of Most Dangerous Cities: 67% violent / 63% property / 64% total
+   (Higher % = more dangerous, lower % = safer)
+
+126. Chattanooga, TENNESSEE
+   Population: 181,848
+   Violent Crime Rate: 1070.1 per 100k (1946 incidents)
+   Property Crime Rate: 5557.4 per 100k (10106 incidents)
+   Total Crime Rate: 6627.5 per 100k
+   Top Percentile of Most Dangerous Cities: 10% violent / 5% property / 4% total
+   (Higher % = more dangerous, lower % = safer)
+
+127. Providence, RHODE ISLAND
+   Population: 179,762
+   Violent Crime Rate: 496.2 per 100k (892 incidents)
+   Property Crime Rate: 3011.2 per 100k (5413 incidents)
+   Total Crime Rate: 3507.4 per 100k
+   Top Percentile of Most Dangerous Cities: 50% violent / 47% property / 48% total
+   (Higher % = more dangerous, lower % = safer)
+
+128. Rancho Cucamonga, CALIFORNIA
+   Population: 179,247
+   Violent Crime Rate: 278.9 per 100k (500 incidents)
+   Property Crime Rate: 1928.1 per 100k (3456 incidents)
+   Total Crime Rate: 2207.0 per 100k
+   Top Percentile of Most Dangerous Cities: 76% violent / 76% property / 78% total
+   (Higher % = more dangerous, lower % = safer)
+
+129. Santa Rosa, CALIFORNIA
+   Population: 177,884
+   Violent Crime Rate: 481.8 per 100k (857 incidents)
+   Property Crime Rate: 1615.7 per 100k (2874 incidents)
+   Total Crime Rate: 2097.4 per 100k
+   Top Percentile of Most Dangerous Cities: 51% violent / 86% property / 81% total
+   (Higher % = more dangerous, lower % = safer)
+
+130. Newport News, VIRGINIA
+   Population: 177,319
+   Violent Crime Rate: 595.5 per 100k (1056 incidents)
+   Property Crime Rate: 2528.8 per 100k (4484 incidents)
+   Total Crime Rate: 3124.3 per 100k
+   Top Percentile of Most Dangerous Cities: 39% violent / 58% property / 55% total
+   (Higher % = more dangerous, lower % = safer)
+
+131. Oceanside, CALIFORNIA
+   Population: 177,129
+   Violent Crime Rate: 402.0 per 100k (712 incidents)
+   Property Crime Rate: 2109.2 per 100k (3736 incidents)
+   Total Crime Rate: 2511.2 per 100k
+   Top Percentile of Most Dangerous Cities: 60% violent / 69% property / 69% total
+   (Higher % = more dangerous, lower % = safer)
+
+132. Salem, OREGON
+   Population: 175,867
+   Violent Crime Rate: 381.0 per 100k (670 incidents)
+   Property Crime Rate: 3689.2 per 100k (6488 incidents)
+   Total Crime Rate: 4070.1 per 100k
+   Top Percentile of Most Dangerous Cities: 63% violent / 28% property / 36% total
+   (Higher % = more dangerous, lower % = safer)
+
+133. Elk Grove, CALIFORNIA
+   Population: 175,492
+   Violent Crime Rate: 212.0 per 100k (372 incidents)
+   Property Crime Rate: 1481.0 per 100k (2599 incidents)
+   Total Crime Rate: 1693.0 per 100k
+   Top Percentile of Most Dangerous Cities: 83% violent / 89% property / 91% total
+   (Higher % = more dangerous, lower % = safer)
+
+134. Pembroke Pines, FLORIDA
+   Population: 174,641
+   Violent Crime Rate: 203.3 per 100k (355 incidents)
+   Property Crime Rate: 1914.8 per 100k (3344 incidents)
+   Total Crime Rate: 2118.1 per 100k
+   Top Percentile of Most Dangerous Cities: 84% violent / 76% property / 79% total
+   (Higher % = more dangerous, lower % = safer)
+
+135. Peoria, ARIZONA
+   Population: 174,571
+   Violent Crime Rate: 233.1 per 100k (407 incidents)
+   Property Crime Rate: 1874.9 per 100k (3273 incidents)
+   Total Crime Rate: 2108.0 per 100k
+   Top Percentile of Most Dangerous Cities: 80% violent / 79% property / 81% total
+   (Higher % = more dangerous, lower % = safer)
+
+136. Eugene, OREGON
+   Population: 173,183
+   Violent Crime Rate: 389.8 per 100k (675 incidents)
+   Property Crime Rate: 3570.8 per 100k (6184 incidents)
+   Total Crime Rate: 3960.6 per 100k
+   Top Percentile of Most Dangerous Cities: 62% violent / 32% property / 38% total
+   (Higher % = more dangerous, lower % = safer)
+
+137. Garden Grove, CALIFORNIA
+   Population: 172,832
+   Violent Crime Rate: 292.2 per 100k (505 incidents)
+   Property Crime Rate: 2261.7 per 100k (3909 incidents)
+   Total Crime Rate: 2553.9 per 100k
+   Top Percentile of Most Dangerous Cities: 74% violent / 64% property / 68% total
+   (Higher % = more dangerous, lower % = safer)
+
+138. Cary, NORTH CAROLINA
+   Population: 172,525
+   Violent Crime Rate: 66.1 per 100k (114 incidents)
+   Property Crime Rate: 904.2 per 100k (1560 incidents)
+   Total Crime Rate: 970.3 per 100k
+   Top Percentile of Most Dangerous Cities: 99% violent / 99% property / 100% total
+   (Higher % = more dangerous, lower % = safer)
+
+139. Fort Collins, COLORADO
+   Population: 170,889
+   Violent Crime Rate: 217.1 per 100k (371 incidents)
+   Property Crime Rate: 2172.8 per 100k (3713 incidents)
+   Total Crime Rate: 2389.9 per 100k
+   Top Percentile of Most Dangerous Cities: 82% violent / 68% property / 72% total
+   (Higher % = more dangerous, lower % = safer)
+
+140. Corona, CALIFORNIA
+   Population: 170,875
+   Violent Crime Rate: 170.3 per 100k (291 incidents)
+   Property Crime Rate: 2037.7 per 100k (3482 incidents)
+   Total Crime Rate: 2208.0 per 100k
+   Top Percentile of Most Dangerous Cities: 87% violent / 72% property / 78% total
+   (Higher % = more dangerous, lower % = safer)
+
+141. Springfield, MISSOURI
+   Population: 169,235
+   Violent Crime Rate: 1519.2 per 100k (2571 incidents)
+   Property Crime Rate: 7792.7 per 100k (13188 incidents)
+   Total Crime Rate: 9311.9 per 100k
+   Top Percentile of Most Dangerous Cities: 3% violent / 1% property / 1% total
+   (Higher % = more dangerous, lower % = safer)
+
+142. Jackson, MISSISSIPPI
+   Population: 163,297
+   Violent Crime Rate: 0.0 per 100k (0 incidents)
+   Property Crime Rate: 4538.4 per 100k (7411 incidents)
+   Total Crime Rate: 4538.4 per 100k
+   Top Percentile of Most Dangerous Cities: 100% violent / 12% property / 25% total
+   (Higher % = more dangerous, lower % = safer)
+
+143. Alexandria, VIRGINIA
+   Population: 162,258
+   Violent Crime Rate: 177.5 per 100k (288 incidents)
+   Property Crime Rate: 1551.2 per 100k (2517 incidents)
+   Total Crime Rate: 1728.7 per 100k
+   Top Percentile of Most Dangerous Cities: 87% violent / 88% property / 90% total
+   (Higher % = more dangerous, lower % = safer)
+
+144. Hayward, CALIFORNIA
+   Population: 161,588
+   Violent Crime Rate: 341.6 per 100k (552 incidents)
+   Property Crime Rate: 3023.7 per 100k (4886 incidents)
+   Total Crime Rate: 3365.3 per 100k
+   Top Percentile of Most Dangerous Cities: 70% violent / 46% property / 50% total
+   (Higher % = more dangerous, lower % = safer)
+
+145. Clarksville, TENNESSEE
+   Population: 159,996
+   Violent Crime Rate: 578.8 per 100k (926 incidents)
+   Property Crime Rate: 2791.9 per 100k (4467 incidents)
+   Total Crime Rate: 3370.7 per 100k
+   Top Percentile of Most Dangerous Cities: 42% violent / 52% property / 49% total
+   (Higher % = more dangerous, lower % = safer)
+
+146. Lancaster, CALIFORNIA
+   Population: 159,335
+   Violent Crime Rate: 852.9 per 100k (1359 incidents)
+   Property Crime Rate: 2100.0 per 100k (3346 incidents)
+   Total Crime Rate: 2952.9 per 100k
+   Top Percentile of Most Dangerous Cities: 18% violent / 70% property / 58% total
+   (Higher % = more dangerous, lower % = safer)
+
+147. Palmdale, CALIFORNIA
+   Population: 157,138
+   Violent Crime Rate: 418.7 per 100k (658 incidents)
+   Property Crime Rate: 1419.1 per 100k (2230 incidents)
+   Total Crime Rate: 1837.9 per 100k
+   Top Percentile of Most Dangerous Cities: 58% violent / 92% property / 87% total
+   (Higher % = more dangerous, lower % = safer)
+
+148. Salinas, CALIFORNIA
+   Population: 156,943
+   Violent Crime Rate: 498.3 per 100k (782 incidents)
+   Property Crime Rate: 2250.5 per 100k (3532 incidents)
+   Total Crime Rate: 2748.8 per 100k
+   Top Percentile of Most Dangerous Cities: 49% violent / 66% property / 63% total
+   (Higher % = more dangerous, lower % = safer)
+
+149. Hollywood, FLORIDA
+   Population: 156,643
+   Violent Crime Rate: 291.1 per 100k (456 incidents)
+   Property Crime Rate: 2655.1 per 100k (4159 incidents)
+   Total Crime Rate: 2946.2 per 100k
+   Top Percentile of Most Dangerous Cities: 75% violent / 55% property / 59% total
+   (Higher % = more dangerous, lower % = safer)
+
+150. Springfield, MASSACHUSETTS
+   Population: 155,179
+   Violent Crime Rate: 988.5 per 100k (1534 incidents)
+   Property Crime Rate: 2635.0 per 100k (4089 incidents)
+   Total Crime Rate: 3623.6 per 100k
+   Top Percentile of Most Dangerous Cities: 12% violent / 55% property / 46% total
+   (Higher % = more dangerous, lower % = safer)
+
+151. Sunnyvale, CALIFORNIA
+   Population: 154,859
+   Violent Crime Rate: 167.2 per 100k (259 incidents)
+   Property Crime Rate: 2182.6 per 100k (3380 incidents)
+   Total Crime Rate: 2349.9 per 100k
+   Top Percentile of Most Dangerous Cities: 88% violent / 67% property / 72% total
+   (Higher % = more dangerous, lower % = safer)
+
+152. Pasadena, TEXAS
+   Population: 153,689
+   Violent Crime Rate: 545.9 per 100k (839 incidents)
+   Property Crime Rate: 2512.2 per 100k (3861 incidents)
+   Total Crime Rate: 3058.1 per 100k
+   Top Percentile of Most Dangerous Cities: 44% violent / 59% property / 56% total
+   (Higher % = more dangerous, lower % = safer)
+
+153. Escondido, CALIFORNIA
+   Population: 153,215
+   Violent Crime Rate: 349.8 per 100k (536 incidents)
+   Property Crime Rate: 1548.8 per 100k (2373 incidents)
+   Total Crime Rate: 1898.6 per 100k
+   Top Percentile of Most Dangerous Cities: 68% violent / 88% property / 85% total
+   (Higher % = more dangerous, lower % = safer)
+
+154. Pomona, CALIFORNIA
+   Population: 152,776
+   Violent Crime Rate: 615.3 per 100k (940 incidents)
+   Property Crime Rate: 2754.4 per 100k (4208 incidents)
+   Total Crime Rate: 3369.6 per 100k
+   Top Percentile of Most Dangerous Cities: 37% violent / 53% property / 49% total
+   (Higher % = more dangerous, lower % = safer)
+
+155. Killeen, TEXAS
+   Population: 151,832
+   Violent Crime Rate: 384.0 per 100k (583 incidents)
+   Property Crime Rate: 2260.4 per 100k (3432 incidents)
+   Total Crime Rate: 2644.4 per 100k
+   Top Percentile of Most Dangerous Cities: 62% violent / 65% property / 66% total
+   (Higher % = more dangerous, lower % = safer)
+
+156. Bellevue, WASHINGTON
+   Population: 150,200
+   Violent Crime Rate: 123.2 per 100k (185 incidents)
+   Property Crime Rate: 2838.2 per 100k (4263 incidents)
+   Total Crime Rate: 2961.4 per 100k
+   Top Percentile of Most Dangerous Cities: 94% violent / 51% property / 57% total
+   (Higher % = more dangerous, lower % = safer)
+
+157. Joliet, ILLINOIS
+   Population: 148,155
+   Violent Crime Rate: 506.9 per 100k (751 incidents)
+   Property Crime Rate: 1457.9 per 100k (2160 incidents)
+   Total Crime Rate: 1964.8 per 100k
+   Top Percentile of Most Dangerous Cities: 47% violent / 91% property / 84% total
+   (Higher % = more dangerous, lower % = safer)
+
+158. Murfreesboro, TENNESSEE
+   Population: 145,929
+   Violent Crime Rate: 418.7 per 100k (611 incidents)
+   Property Crime Rate: 2897.3 per 100k (4228 incidents)
+   Total Crime Rate: 3316.0 per 100k
+   Top Percentile of Most Dangerous Cities: 59% violent / 50% property / 51% total
+   (Higher % = more dangerous, lower % = safer)
+
+159. Rockford, ILLINOIS
+   Population: 145,719
+   Violent Crime Rate: 1174.2 per 100k (1711 incidents)
+   Property Crime Rate: 3327.0 per 100k (4848 incidents)
+   Total Crime Rate: 4501.1 per 100k
+   Top Percentile of Most Dangerous Cities: 8% violent / 36% property / 26% total
+   (Higher % = more dangerous, lower % = safer)
+
+160. Torrance, CALIFORNIA
+   Population: 145,183
+   Violent Crime Rate: 192.9 per 100k (280 incidents)
+   Property Crime Rate: 1965.1 per 100k (2853 incidents)
+   Total Crime Rate: 2158.0 per 100k
+   Top Percentile of Most Dangerous Cities: 85% violent / 75% property / 79% total
+   (Higher % = more dangerous, lower % = safer)
+
+161. McAllen, TEXAS
+   Population: 144,915
+   Violent Crime Rate: 96.6 per 100k (140 incidents)
+   Property Crime Rate: 2480.8 per 100k (3595 incidents)
+   Total Crime Rate: 2577.4 per 100k
+   Top Percentile of Most Dangerous Cities: 97% violent / 59% property / 67% total
+   (Higher % = more dangerous, lower % = safer)
+
+162. Bridgeport, CONNECTICUT
+   Population: 144,908
+   Violent Crime Rate: 581.7 per 100k (843 incidents)
+   Property Crime Rate: 1701.1 per 100k (2465 incidents)
+   Total Crime Rate: 2282.8 per 100k
+   Top Percentile of Most Dangerous Cities: 42% violent / 83% property / 75% total
+   (Higher % = more dangerous, lower % = safer)
+
+163. Paterson, NEWJERSEY
+   Population: 144,866
+   Violent Crime Rate: 841.5 per 100k (1219 incidents)
+   Property Crime Rate: 2162.0 per 100k (3132 incidents)
+   Total Crime Rate: 3003.5 per 100k
+   Top Percentile of Most Dangerous Cities: 19% violent / 68% property / 57% total
+   (Higher % = more dangerous, lower % = safer)
+
+164. Miramar, FLORIDA
+   Population: 143,334
+   Violent Crime Rate: 216.3 per 100k (310 incidents)
+   Property Crime Rate: 1358.4 per 100k (1947 incidents)
+   Total Crime Rate: 1574.6 per 100k
+   Top Percentile of Most Dangerous Cities: 82% violent / 93% property / 93% total
+   (Higher % = more dangerous, lower % = safer)
+
+165. Mesquite, TEXAS
+   Population: 143,078
+   Violent Crime Rate: 478.8 per 100k (685 incidents)
+   Property Crime Rate: 3632.3 per 100k (5197 incidents)
+   Total Crime Rate: 4111.0 per 100k
+   Top Percentile of Most Dangerous Cities: 52% violent / 30% property / 35% total
+   (Higher % = more dangerous, lower % = safer)
+
+166. Syracuse, NEWYORK
+   Population: 142,438
+   Violent Crime Rate: 792.6 per 100k (1129 incidents)
+   Property Crime Rate: 3134.0 per 100k (4464 incidents)
+   Total Crime Rate: 3926.6 per 100k
+   Top Percentile of Most Dangerous Cities: 21% violent / 44% property / 39% total
+   (Higher % = more dangerous, lower % = safer)
+
+167. Thornton, COLORADO
+   Population: 142,168
+   Violent Crime Rate: 272.9 per 100k (388 incidents)
+   Property Crime Rate: 3026.7 per 100k (4303 incidents)
+   Total Crime Rate: 3299.6 per 100k
+   Top Percentile of Most Dangerous Cities: 76% violent / 46% property / 52% total
+   (Higher % = more dangerous, lower % = safer)
+
+168. Pasadena, CALIFORNIA
+   Population: 141,913
+   Violent Crime Rate: 432.0 per 100k (613 incidents)
+   Property Crime Rate: 2019.5 per 100k (2866 incidents)
+   Total Crime Rate: 2451.5 per 100k
+   Top Percentile of Most Dangerous Cities: 57% violent / 73% property / 70% total
+   (Higher % = more dangerous, lower % = safer)
+
+169. Roseville, CALIFORNIA
+   Population: 141,744
+   Violent Crime Rate: 182.7 per 100k (259 incidents)
+   Property Crime Rate: 2225.1 per 100k (3154 incidents)
+   Total Crime Rate: 2407.9 per 100k
+   Top Percentile of Most Dangerous Cities: 86% violent / 67% property / 71% total
+   (Higher % = more dangerous, lower % = safer)
+
+170. Denton, TEXAS
+   Population: 141,492
+   Violent Crime Rate: 233.9 per 100k (331 incidents)
+   Property Crime Rate: 1883.5 per 100k (2665 incidents)
+   Total Crime Rate: 2117.4 per 100k
+   Top Percentile of Most Dangerous Cities: 80% violent / 78% property / 80% total
+   (Higher % = more dangerous, lower % = safer)
+
+171. Olathe, KANSAS
+   Population: 141,371
+   Violent Crime Rate: 205.1 per 100k (290 incidents)
+   Property Crime Rate: 1134.6 per 100k (1604 incidents)
+   Total Crime Rate: 1339.7 per 100k
+   Top Percentile of Most Dangerous Cities: 84% violent / 95% property / 94% total
+   (Higher % = more dangerous, lower % = safer)
+
+172. Surprise, ARIZONA
+   Population: 140,962
+   Violent Crime Rate: 97.9 per 100k (138 incidents)
+   Property Crime Rate: 1477.7 per 100k (2083 incidents)
+   Total Crime Rate: 1575.6 per 100k
+   Top Percentile of Most Dangerous Cities: 96% violent / 90% property / 93% total
+   (Higher % = more dangerous, lower % = safer)
+
+173. Dayton, OHIO
+   Population: 140,427
+   Violent Crime Rate: 962.1 per 100k (1351 incidents)
+   Property Crime Rate: 4039.8 per 100k (5673 incidents)
+   Total Crime Rate: 5001.9 per 100k
+   Top Percentile of Most Dangerous Cities: 13% violent / 21% property / 20% total
+   (Higher % = more dangerous, lower % = safer)
+
+174. Fullerton, CALIFORNIA
+   Population: 140,194
+   Violent Crime Rate: 266.1 per 100k (373 incidents)
+   Property Crime Rate: 2251.9 per 100k (3157 incidents)
+   Total Crime Rate: 2517.9 per 100k
+   Top Percentile of Most Dangerous Cities: 78% violent / 66% property / 69% total
+   (Higher % = more dangerous, lower % = safer)
+
+175. Waco, TEXAS
+   Population: 139,870
+   Violent Crime Rate: 571.2 per 100k (799 incidents)
+   Property Crime Rate: 3288.1 per 100k (4599 incidents)
+   Total Crime Rate: 3859.3 per 100k
+   Top Percentile of Most Dangerous Cities: 43% violent / 40% property / 42% total
+   (Higher % = more dangerous, lower % = safer)
+
+176. Orange, CALIFORNIA
+   Population: 139,830
+   Violent Crime Rate: 128.7 per 100k (180 incidents)
+   Property Crime Rate: 1561.9 per 100k (2184 incidents)
+   Total Crime Rate: 1690.6 per 100k
+   Top Percentile of Most Dangerous Cities: 92% violent / 87% property / 92% total
+   (Higher % = more dangerous, lower % = safer)
+
+177. Charleston, SOUTH CAROLINA
+   Population: 138,254
+   Violent Crime Rate: 373.2 per 100k (516 incidents)
+   Property Crime Rate: 2259.6 per 100k (3124 incidents)
+   Total Crime Rate: 2632.8 per 100k
+   Top Percentile of Most Dangerous Cities: 64% violent / 65% property / 67% total
+   (Higher % = more dangerous, lower % = safer)
+
+178. West Valley, UTAH
+   Population: 137,269
+   Violent Crime Rate: 699.4 per 100k (960 incidents)
+   Property Crime Rate: 3189.4 per 100k (4378 incidents)
+   Total Crime Rate: 3888.7 per 100k
+   Top Percentile of Most Dangerous Cities: 29% violent / 42% property / 41% total
+   (Higher % = more dangerous, lower % = safer)
+
+179. Gainesville, FLORIDA
+   Population: 135,085
+   Violent Crime Rate: 687.0 per 100k (928 incidents)
+   Property Crime Rate: 3488.2 per 100k (4712 incidents)
+   Total Crime Rate: 4175.1 per 100k
+   Top Percentile of Most Dangerous Cities: 32% violent / 34% property / 34% total
+   (Higher % = more dangerous, lower % = safer)
+
+180. Coral Springs, FLORIDA
+   Population: 134,967
+   Violent Crime Rate: 144.5 per 100k (195 incidents)
+   Property Crime Rate: 1710.8 per 100k (2309 incidents)
+   Total Crime Rate: 1855.3 per 100k
+   Top Percentile of Most Dangerous Cities: 91% violent / 82% property / 87% total
+   (Higher % = more dangerous, lower % = safer)
+
+181. Visalia, CALIFORNIA
+   Population: 134,961
+   Violent Crime Rate: 434.2 per 100k (586 incidents)
+   Property Crime Rate: 2889.7 per 100k (3900 incidents)
+   Total Crime Rate: 3323.9 per 100k
+   Top Percentile of Most Dangerous Cities: 56% violent / 51% property / 50% total
+   (Higher % = more dangerous, lower % = safer)
+
+182. Warren, MICHIGAN
+   Population: 134,653
+   Violent Crime Rate: 481.2 per 100k (648 incidents)
+   Property Crime Rate: 1830.6 per 100k (2465 incidents)
+   Total Crime Rate: 2311.9 per 100k
+   Top Percentile of Most Dangerous Cities: 51% violent / 80% property / 74% total
+   (Higher % = more dangerous, lower % = safer)
+
+183. Columbia, SOUTH CAROLINA
+   Population: 133,790
+   Violent Crime Rate: 775.1 per 100k (1037 incidents)
+   Property Crime Rate: 5252.3 per 100k (7027 incidents)
+   Total Crime Rate: 6027.4 per 100k
+   Top Percentile of Most Dangerous Cities: 22% violent / 8% property / 9% total
+   (Higher % = more dangerous, lower % = safer)
+
+184. Sterling Heights, MICHIGAN
+   Population: 133,377
+   Violent Crime Rate: 125.2 per 100k (167 incidents)
+   Property Crime Rate: 854.7 per 100k (1140 incidents)
+   Total Crime Rate: 979.9 per 100k
+   Top Percentile of Most Dangerous Cities: 93% violent / 100% property / 100% total
+   (Higher % = more dangerous, lower % = safer)
+
+185. Hampton, VIRGINIA
+   Population: 133,173
+   Violent Crime Rate: 295.1 per 100k (393 incidents)
+   Property Crime Rate: 2999.1 per 100k (3994 incidents)
+   Total Crime Rate: 3294.2 per 100k
+   Top Percentile of Most Dangerous Cities: 74% violent / 48% property / 53% total
+   (Higher % = more dangerous, lower % = safer)
+
+186. Round Rock, TEXAS
+   Population: 132,747
+   Violent Crime Rate: 124.3 per 100k (165 incidents)
+   Property Crime Rate: 1683.7 per 100k (2235 incidents)
+   Total Crime Rate: 1808.0 per 100k
+   Top Percentile of Most Dangerous Cities: 94% violent / 83% property / 88% total
+   (Higher % = more dangerous, lower % = safer)
+
+187. Santa Clara, CALIFORNIA
+   Population: 131,173
+   Violent Crime Rate: 163.1 per 100k (214 incidents)
+   Property Crime Rate: 3619.6 per 100k (4748 incidents)
+   Total Crime Rate: 3782.8 per 100k
+   Top Percentile of Most Dangerous Cities: 89% violent / 31% property / 44% total
+   (Higher % = more dangerous, lower % = safer)
+
+188. Kent, WASHINGTON
+   Population: 131,003
+   Violent Crime Rate: 371.0 per 100k (486 incidents)
+   Property Crime Rate: 3969.4 per 100k (5200 incidents)
+   Total Crime Rate: 4340.4 per 100k
+   Top Percentile of Most Dangerous Cities: 65% violent / 22% property / 28% total
+   (Higher % = more dangerous, lower % = safer)
+
+189. Stamford, CONNECTICUT
+   Population: 130,678
+   Violent Crime Rate: 202.0 per 100k (264 incidents)
+   Property Crime Rate: 1379.7 per 100k (1803 incidents)
+   Total Crime Rate: 1581.8 per 100k
+   Top Percentile of Most Dangerous Cities: 85% violent / 93% property / 92% total
+   (Higher % = more dangerous, lower % = safer)
+
+190. Concord, CALIFORNIA
+   Population: 130,615
+   Violent Crime Rate: 414.2 per 100k (541 incidents)
+   Property Crime Rate: 3491.2 per 100k (4560 incidents)
+   Total Crime Rate: 3905.4 per 100k
+   Top Percentile of Most Dangerous Cities: 59% violent / 33% property / 40% total
+   (Higher % = more dangerous, lower % = safer)
+
+191. New Haven, CONNECTICUT
+   Population: 130,494
+   Violent Crime Rate: 895.1 per 100k (1168 incidents)
+   Property Crime Rate: 3799.4 per 100k (4958 incidents)
+   Total Crime Rate: 4694.5 per 100k
+   Top Percentile of Most Dangerous Cities: 16% violent / 26% property / 22% total
+   (Higher % = more dangerous, lower % = safer)
+
+192. Elizabeth, NEWJERSEY
+   Population: 128,753
+   Violent Crime Rate: 719.2 per 100k (926 incidents)
+   Property Crime Rate: 3027.5 per 100k (3898 incidents)
+   Total Crime Rate: 3746.7 per 100k
+   Top Percentile of Most Dangerous Cities: 27% violent / 45% property / 44% total
+   (Higher % = more dangerous, lower % = safer)
+
+193. Thousand Oaks, CALIFORNIA
+   Population: 127,811
+   Violent Crime Rate: 68.9 per 100k (88 incidents)
+   Property Crime Rate: 1089.1 per 100k (1392 incidents)
+   Total Crime Rate: 1158.0 per 100k
+   Top Percentile of Most Dangerous Cities: 99% violent / 96% property / 97% total
+   (Higher % = more dangerous, lower % = safer)
+
+194. Fargo, NORTH DAKOTA
+   Population: 127,423
+   Violent Crime Rate: 450.5 per 100k (574 incidents)
+   Property Crime Rate: 3121.9 per 100k (3978 incidents)
+   Total Crime Rate: 3572.4 per 100k
+   Top Percentile of Most Dangerous Cities: 55% violent / 44% property / 46% total
+   (Higher % = more dangerous, lower % = safer)
+
+195. Lafayette, LOUISIANA
+   Population: 126,694
+   Violent Crime Rate: 524.1 per 100k (664 incidents)
+   Property Crime Rate: 4304.9 per 100k (5454 incidents)
+   Total Crime Rate: 4829.0 per 100k
+   Top Percentile of Most Dangerous Cities: 46% violent / 16% property / 21% total
+   (Higher % = more dangerous, lower % = safer)
+
+196. Pearland, TEXAS
+   Population: 126,206
+   Violent Crime Rate: 89.5 per 100k (113 incidents)
+   Property Crime Rate: 1641.0 per 100k (2071 incidents)
+   Total Crime Rate: 1730.5 per 100k
+   Top Percentile of Most Dangerous Cities: 98% violent / 84% property / 90% total
+   (Higher % = more dangerous, lower % = safer)
+
+197. Simi Valley, CALIFORNIA
+   Population: 126,025
+   Violent Crime Rate: 115.9 per 100k (146 incidents)
+   Property Crime Rate: 942.7 per 100k (1188 incidents)
+   Total Crime Rate: 1058.5 per 100k
+   Top Percentile of Most Dangerous Cities: 95% violent / 98% property / 99% total
+   (Higher % = more dangerous, lower % = safer)
+
+198. Topeka, KANSAS
+   Population: 125,655
+   Violent Crime Rate: 712.3 per 100k (895 incidents)
+   Property Crime Rate: 4990.6 per 100k (6271 incidents)
+   Total Crime Rate: 5702.9 per 100k
+   Top Percentile of Most Dangerous Cities: 28% violent / 9% property / 11% total
+   (Higher % = more dangerous, lower % = safer)
+
+199. Norman, OKLAHOMA
+   Population: 125,076
+   Violent Crime Rate: 267.8 per 100k (335 incidents)
+   Property Crime Rate: 2612.0 per 100k (3267 incidents)
+   Total Crime Rate: 2879.8 per 100k
+   Top Percentile of Most Dangerous Cities: 77% violent / 56% property / 61% total
+   (Higher % = more dangerous, lower % = safer)
+
+200. Columbia, MISSOURI
+   Population: 125,017
+   Violent Crime Rate: 320.8 per 100k (401 incidents)
+   Property Crime Rate: 2594.0 per 100k (3243 incidents)
+   Total Crime Rate: 2914.8 per 100k
+   Top Percentile of Most Dangerous Cities: 71% violent / 56% property / 60% total
+   (Higher % = more dangerous, lower % = safer)
+
+
+================================================================================
+SUMMARY STATISTICS
+================================================================================
+
+Average Violent Crime Rate: 564.4 per 100k
+Average Property Crime Rate: 2998.7 per 100k
+Average Total Crime Rate: 3563.1 per 100k
+
+Safest Cities (Lowest Total Crime Rate):
+1. Cary, NORTH CAROLINA: 970.3 per 100k
+2. Sterling Heights, MICHIGAN: 979.9 per 100k
+3. Port St. Lucie, FLORIDA: 997.3 per 100k
+4. Simi Valley, CALIFORNIA: 1058.5 per 100k
+5. Santa Clarita, CALIFORNIA: 1071.1 per 100k
+6. McKinney, TEXAS: 1136.5 per 100k
+7. Thousand Oaks, CALIFORNIA: 1158.0 per 100k
+8. Cape Coral, FLORIDA: 1237.0 per 100k
+9. Aurora, ILLINOIS: 1266.4 per 100k
+10. Yonkers, NEWYORK: 1266.5 per 100k
+
+Most Dangerous Cities (Highest Total Crime Rate):
+1. Springfield, MISSOURI: 9311.9 per 100k
+2. Birmingham, ALABAMA: 8225.5 per 100k
+3. St. Louis, MISSOURI: 8110.6 per 100k
+4. Memphis, TENNESSEE: 8029.9 per 100k
+5. Oakland, CALIFORNIA: 7692.4 per 100k
+6. Little Rock, ARKANSAS: 7638.8 per 100k
+7. Chattanooga, TENNESSEE: 6627.5 per 100k
+8. Spokane, WASHINGTON: 6608.8 per 100k
+9. Wichita, KANSAS: 6462.8 per 100k
+10. New Orleans, LOUISIANA: 6437.3 per 100k
