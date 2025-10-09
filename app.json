@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "9d075a62-d74f-4478-997a-9cef5801f0c2"
+      }
+    },
+    "android": {
+      "package": "com.samturner.walksafemonorepo"
+    }
+  }
+}

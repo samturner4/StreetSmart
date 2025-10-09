@@ -1,6 +1,11 @@
 # Dependencies
 node_modules/
 */node_modules/
+aws/
+
+#statistic info
+dc-tiles/
+nationaldata/
 
 # Production builds
 .next/

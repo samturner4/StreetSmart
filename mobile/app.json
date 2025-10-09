@@ -1,0 +1,58 @@
+{
+  "expo": {
+    "name": "Walk Safe",
+    "slug": "walksafe-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "extra": {
+      "SUPABASE_URL": "https://kpukhqjhogjgupnwzeqd.supabase.co",
+      "SUPABASE_ANON_KEY": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImtwdWtocWpob2dqZ3Vwbnd6ZXFkIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTIwODM4NDIsImV4cCI6MjA2NzY1OTg0Mn0.D-DGbPz53TfcgirTfaNS_kMiFusVsUKLWiZjViqWkoU",
+      "eas": {
+        "projectId": "b1ed3d79-9692-47b7-a5d8-8e3cf5b612af"
+      }
+    },
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.samturner.walksafe-mobile",
+      "infoPlist": {
+        "NSLocationWhenInUseUsageDescription": "This app needs access to location to show your current position and plan safe routes.",
+        "ITSAppUsesNonExemptEncryption": false
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "permissions": [
+        "ACCESS_FINE_LOCATION",
+        "ACCESS_COARSE_LOCATION",
+        "android.permission.ACCESS_COARSE_LOCATION",
+        "android.permission.ACCESS_FINE_LOCATION"
+      ],
+      "package": "com.anonymous.walksafemobile"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      [
+        "expo-location",
+        {
+          "locationAlwaysAndWhenInUsePermission": "Allow Walk Safe to use your location to show your current position and plan safe routes."
+        }
+      ],
+      "@maplibre/maplibre-react-native",
+      "expo-secure-store"
+    ]
+  }
+}
