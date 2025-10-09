@@ -3,7 +3,7 @@
 import React, { useEffect, useRef, useState } from 'react';
 import mapboxgl from 'mapbox-gl';
 // @ts-ignore - Mapbox Directions doesn't have complete TypeScript support
-import MapboxDirections from '@mapbox/mapbox-gl-directions/dist/mapbox-gl-directions';
+import MapboxDirections from '@mapbox/mapbox-gl-directions';
 import '@mapbox/mapbox-gl-directions/dist/mapbox-gl-directions.css';
 import 'mapbox-gl/dist/mapbox-gl.css';
 import UserMenu from '@/components/auth/UserMenu';
